@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C, C++, Python, HTML, CSS, .NET Technology**
 
-- 📫 How to reach me **amitthakurbadhal@ggmail.com**
+- 📫 How to reach me **amitthakurbadhal@gmail.com**
 
 - ⚡ Fun fact **"I'm a dreamer with schemer mind ..."**
 
